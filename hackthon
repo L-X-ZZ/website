@@ -1,0 +1,143 @@
+<!-- https://www.bilibili.com/video/BV1hY411j7UM/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=8bc7f9b38341d1abd8fdea20cdc86ea3 -->
+<!-- https://www.nodeseek.com/post-62442-1 -->
+<!-- https://kangwenchang.com/logo.png -->
+<!-- https://www.bilibili.com/video/BV14S4y1K774?spm_id_from=333.788.videopod.sections&vd_source=8bc7f9b38341d1abd8fdea20cdc86ea3 -->
+<!-- https://www.bilibili.com/video/BV1rs421u7nX/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=8bc7f9b38341d1abd8fdea20cdc86ea3 -->
+<!-- https://zhuanlan.zhihu.com/p/693996999 -->
+<!-- https://no-passwd.github.io/alkencode/maxlist.html -->
+<!-- https://www.bilibili.com/video/BV1zr4y1k7jm/?spm_id_from=333.337.search-card.all.click&vd_source=8bc7f9b38341d1abd8fdea20cdc86ea3 -->
+<!-- Currently watched the above b station video, the code is basically almost 80% is copied according to the video, but due to the code technology sparse, so also only copied the simplest part, and the picture logo is my wechat profile photo -->
+
+<!-- Tell the code that this is an html document -->
+<!DOCTYPE html> 
+
+<!-- Displaying the root element of an HTML page, Specify language as Chinese -->
+<html lang="zh-CN">
+
+<!-- Holds the head element of a document -->
+<head>
+
+<!-- Setting the character encoding to UTF 8 -->
+<meta charset="utf-8">
+
+<!-- Used to make it look good on the page -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- Provide the title of the page -->
+<title>Tips for preventing aliens</title>
+
+<!-- Used to set the page style -->
+<style>  
+
+/* This is where the main body begins */
+body {
+
+/* Clear the area of the surrounding elements */
+margin: 0;
+
+}
+
+/* Used to set the page style */
+</style>
+
+<!-- Header Tags -->
+</head>
+
+<!-- Body of the code segment -->
+<body>
+
+<!-- element is styled and labeled -->
+<div style="
+
+/* Background color is #88c3b1 */
+background-color: #88c3b1;
+
+/* Text alignment center */
+text-align: center;
+
+/* Fill in the rest. */
+padding: 40px;
+
+">
+
+<!-- Displays the image from the given URL -->
+<img src='https://kangwenchang.com/logo.png' alt="luke" width="80px" height="80px">
+
+<!-- Element Setting Styles -->
+</div>
+
+<!-- element is styled and labeled -->
+<div style="
+
+/* Maximum width is 700px */
+max-width: 700px;
+
+/* Margins, 30px Auto */
+margin: 30px auto;
+
+/* Fill the remainder */
+padding: 15px;
+
+/* length and height */
+line-height: 1.7;
+
+/* color turn to green */
+color: rgb(90, 232, 142);
+
+"> 
+
+<!-- this part is full hand write by myself atleast -->
+<p>This is Alien Cleanup company. Be advised, there are aliens lurking inside. Follow this website to keep you safe</p>
+
+<p>Observe their biological compatibility</p>
+
+<p>Observe for rigidity of movement and expression</p>
+
+<p>Observe whether their speech is repeatedly jammed</p>
+
+<p>Observe if it stares at you all the time, if it makes you uneasy</p>
+
+<p>Trying to find the tiny cracks that make them different from humans</p>
+
+<p>People who encounter biologically impossible traits</p>
+
+<p>Make▞▚▎▚▙▘▛sure▞▚▎▄▙▚▗▞to▚▙▄▗▗▞kill▙▄▛▞yourself</p>
+
+<p>There's▚▙▄▗▗▞not▞▗▘▙▗▄enough▞▄▃▙▞for▞▞▙two▚▚▙▄of▟▚▝▘▚us</p>
+
+<p>If all of the ways fail, grab▞▄▃▄▙▞weapon you have around and kill▙▗▚▗▚▚▙▄▄you.</p>
+
+<!-- Element Setting Styles -->
+</div>
+
+<!-- element is styled and labeled -->
+<div style="
+
+/* Background color is #7c7cbc */
+background-color: #7c7cbc;
+
+/* text center */
+text-align: center;
+
+/* A certain amount of padding */
+padding: 40px;
+
+/* Setting the font size */
+font-size: 12px;
+
+">
+
+<!-- Indicates that it is a website of Alien Cleanup, Inc. -->
+<p>Alien Cleanup company website</p>
+
+<!-- Element Setting Styles -->
+</div>
+
+<!-- Body of the code segment -->
+</body>
+
+<!-- html website -->
+</html>
+
+<!-- Tried the best at all -->
+ 
